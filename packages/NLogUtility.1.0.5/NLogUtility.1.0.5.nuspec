@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>NLogUtility</id>
+    <version>1.0.5</version>
+    <title>NLog.Utility</title>
+    <authors>kinshines</authors>
+    <owners>kinshines</owners>
+    <licenseUrl>https://raw.githubusercontent.com/kinshines/NLogUtility/master/LICENSE.txt</licenseUrl>
+    <projectUrl>https://github.com/kinshines/NLogUtility</projectUrl>
+    <iconUrl>http://nlog-project.org/N.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>a utility for nlog</description>
+    <summary />
+    <releaseNotes>first release.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>NLog log email</tags>
+    <dependencies>
+      <dependency id="NLog" version="4.4.1" />
+    </dependencies>
+  </metadata>
+</package>
